@@ -109,9 +109,9 @@ False positives target: **≤10%**
 | Stage | Status |
 |-------|--------|
 | Concept | ✅ Completed |
-| MVP Build | 🛠 In Progress |
-| Dataset Curation | 🧪 Testing Phase |
-| UI/UX Prototype | 🎨 Pending |
+| MVP Build | ✅ Completed  |
+| Dataset Curation | 🛠 In Progress |
+| UI/UX Prototype | ✅ Completed  |
 | API/SDK | 📌 Future |
 
 ---
