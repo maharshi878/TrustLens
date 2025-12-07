@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/placeholder" width="120"/>
+<img src="https://s6.imgcdn.dev/YT51NN.png" alt="TrustLens Logo" border="0">
 
 # 🔍 TRUSTLENS  
 ### **Digital Content Forensics for Everyone**
